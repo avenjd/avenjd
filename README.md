@@ -18,8 +18,6 @@
 
 - ToDoList VanillaJS
 
-- ToDoList ReactJS
-
 - Quiz VanillaJS
 
 - Learn more about PHP
