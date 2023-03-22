@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Adam Wachel</h1>
-<h3 align="center">A begginer frontend developer from Poland</h3>
+<h3 align="center">A begginer web developer from Poland</h3>
 
 - 🌱 I’m currently learning **Vanilla JS**
 
