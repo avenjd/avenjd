@@ -18,6 +18,8 @@
 
 - ToDoList VanillaJS
 
+- Wather app VanillaJS
+
 - Quiz VanillaJS
 
 - Learn more about PHP
