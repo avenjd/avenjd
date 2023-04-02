@@ -13,10 +13,6 @@
 
 <h3 align="center">Protjects to do:</h3>
 
-- Finish JS course from udemy
-
-- ToDoList VanillaJS
-
 - Wather app VanillaJS
 
 - Quiz VanillaJS
