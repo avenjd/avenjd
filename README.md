@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Adam Wachel</h1>
 <h3 align="center">A begginer web developer from Poland</h3>
 
-- 🌱 I’m currently learning **Vanilla JS**
+- 🌱 I’m currently learning **Advanced JS**
 
 - 👨‍💻 All of my projects are available at [https://github.com/avenjd](https://github.com/avenjd)
 
