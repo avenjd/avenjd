@@ -13,9 +13,9 @@
 
 <h3 align="center">Protjects to do:</h3>
 
-- Wather app VanillaJS
+- Wather app JS
 
-- Quiz VanillaJS
+- Quiz JS
 
 - Learn more about PHP
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=avenjd&label=Profile%20views&color=000000&style=flat" alt="avenjd" /> </p>
