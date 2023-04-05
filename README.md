@@ -13,8 +13,6 @@
 
 <h3 align="center">Protjects to do:</h3>
 
-- Wather app JS
-
 - Quiz JS
 
 - Learn more about PHP
