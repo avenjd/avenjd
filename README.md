@@ -13,6 +13,6 @@
 <br> <br>
 <h3 align="left">Projects to do:</h3>
 
-- Quiz JS
+- Advanced Quiz JS
 
-- Learn more about PHP
+- Spotify clone
