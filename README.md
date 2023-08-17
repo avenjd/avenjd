@@ -13,6 +13,4 @@
 <br> <br>
 <h3 align="left">Projects to do:</h3>
 
-- Advanced Quiz JS
-
 - Spotify clone
