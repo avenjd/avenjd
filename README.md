@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Adam</h1>
 <h3 align="center">A passionate web developer from Poland</h3>
 
-- 🔭 I’m currently working on **Accessibility widget**
+- 🔭 I’m currently working on **Creating modern and responsive UIs**
 
 - 🌱 I’m currently learning **Figma**
 
