@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/avenjd](https://github.com/avenjd)
 
-- 📫 How to reach me **adam.wachel.kontakt@gmail.com**
+- 📫 How to reach me **adam.wachel.kontakt@gmail.com** **kontakt@siteart.pl**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/adam-wachel/](https://www.linkedin.com/in/adam-wachel/)
 
